@@ -1,4 +1,4 @@
-# CECS 342 Lab 4 - Logic Languages with SWI-Prolog
+# CECS 342 Lab 4: Logic Languages with SWI-Prolog
 
 ## Assignment Description
 
